@@ -62,4 +62,6 @@ public class VisitaVeterinaria {
     public void setDiagnostico(String diagnostico) {
         this.diagnostico = diagnostico;
     }
+
+
 }
