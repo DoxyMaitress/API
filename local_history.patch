@@ -1,0 +1,17 @@
+Index: API-main/API-segundaRama/src/main/java/com/example/demo/controllers/MascotaController.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/API-main/API-segundaRama/src/main/java/com/example/demo/controllers/MascotaController.java b/API-main/API-segundaRama/src/main/java/com/example/demo/controllers/MascotaController.java
+--- a/API-main/API-segundaRama/src/main/java/com/example/demo/controllers/MascotaController.java	
++++ b/API-main/API-segundaRama/src/main/java/com/example/demo/controllers/MascotaController.java	(date 1704974924055)
+@@ -12,7 +12,7 @@
+ @RestController
+ @RequestMapping("/mascotas")
+ public class MascotaController {
+-
++//hastaaqui
+     @Autowired
+     private MascotaService mascotaService;
+ 
